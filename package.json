@@ -1,0 +1,16 @@
+{
+  "name": "app-root-path-ubuntu-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "app-root-path-ubuntu-repro": "./index.js"
+  },
+  "repository": "git@github.com:tbroadley/app-root-path-ubuntu-repro",
+  "author": "Thomas Broadley <buriedunderbooks@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "app-root-path": "^3.0.0"
+  }
+}

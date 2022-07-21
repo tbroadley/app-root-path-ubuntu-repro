@@ -1,5 +1,5 @@
 FROM library/node:lts-alpine
 
-RUN npm install --global spellchecker-cli
+RUN npm install --global app-root-path-ubuntu-repro
 
-RUN spellchecker --help
+RUN app-root-path-ubuntu-repro --help
