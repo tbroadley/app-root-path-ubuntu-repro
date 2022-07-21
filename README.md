@@ -8,4 +8,4 @@ To reproduce:
 
 ---
 
-To update the app-root-path-ubuntu-repro package, run `npm version minor` and `npm publish`.
+To update [the app-root-path-ubuntu-repro NPM package](https://www.npmjs.com/package/app-root-path-ubuntu-repro), run `npm version minor` and `npm publish`.
